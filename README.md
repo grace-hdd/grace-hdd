@@ -24,9 +24,6 @@ Welcome to my GitHub! I’m passionate about building software solutions, contri
 - [LinkedIn](https://www.linkedin.com/in/grace-haddad1/)
 - [Email](mailto:gracehadda@gmail.com)
 
-## 📈 GitHub Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-hdd&show_icons=true&hide_title=true&count_private=true)
-
 ---
 
 Feel free to reach out for collaboration or just to connect!
