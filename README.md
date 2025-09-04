@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m passionate about building software solutions, contri
 - [Email](mailto:gracehadda@gmail.com)
 
 ## 📈 GitHub Stats
-![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-hdd&show_icons=true&hide_title=true)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-hdd&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
