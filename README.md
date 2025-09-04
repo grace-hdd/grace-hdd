@@ -4,8 +4,6 @@ Welcome to my GitHub! I’m passionate about building software solutions, contri
 
 ## 🚀 About Me
 - 💻 Software Developer | Open Source Enthusiast
-- 🛠️ Skilled in: JavaScript, TypeScript, Python, React, Next.js, Node.js, Docker, SQL
-- 📚 Always learning about Cloud, DevOps, and Data Engineering
 
 ## 🌟 Featured Projects
 
