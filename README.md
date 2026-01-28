@@ -1,31 +1,56 @@
 # Hi, I'm Grace 👋
 
-Welcome to my GitHub! I’m an IT student at **42 Beirut** with a strong focus on **systems programming, algorithms, and code correctness**. I enjoy working close to the system level, where constraints, precision, and behavior matter.
+Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** with a strong focus on **systems programming, algorithms, and code correctness**. I enjoy working close to the system level, where constraints, precision, and behavior matter.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 IT Student @ 42 Beirut  
+- 💻 ITC Student @ AOU Lebanon
+- 🖥️ 42 Beirut Student  
 - 🧠 Interested in low-level programming and problem-solving  
-- 🧪 QA & Trading Technology Intern @ CoinQuant  
+- 🧪 Former QA & Trading Technology Intern @ CoinQuant  
+<p align="center">
+  <a href="https://www.aou.edu.lb">
+    <img src="logos/aou.png" height="45" alt="Arab Open University" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://42.fr">
+    <img src="logos/42.png" height="45" alt="42 Beirut" />
+  </a>
+</p>
 
 ---
 
-## 🧩 Selected 42 Projects
+## 🧩 42 Projects
 
 <p align="center">
-  <img src="libft.png" width="140" />
-  <img src="ft_printf.png" width="140" />
-  <img src="get_next_line.png" width="140" />
-  <img src="push_swap.png" width="140" />
+  <a href="https://github.com/grace-hdd/libft">
+    <img src="42_badges/libft.png" width="140" alt="Libft" />
+  </a>
+  <a href="https://github.com/grace-hdd/ft_printf">
+    <img src="42_badges/ft_printf.png" width="140" alt="Ft_printf" />
+  </a>
+  <a href="https://github.com/grace-hdd/get_next_line">
+    <img src="42_badges/get_next_line.png" width="140" alt="Get_next_line" />
+  </a>
+  <a href="https://github.com/grace-hdd/push_swap">
+    <img src="42_badges/push_swap.png" width="140" alt="Push_swap" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="fract-ol.png" width="140" />
-  <img src="minitalk.png" width="140" />
-  <img src="philosophers.png" width="140" />
+  <a href="https://github.com/grace-hdd/fract-ol">
+    <img src="42_badges/fract-ol.png" width="140" alt="Fract-ol" />
+  </a>
+  <a href="https://github.com/grace-hdd/minitalk">
+    <img src="42_badges/minitalk.png" width="140" alt="Minitalk" />
+  </a>
+  <a href="https://github.com/grace-hdd/philosophers">
+    <img src="42_badges/philosophers.png" width="140" alt="Philosophers" />
+  </a>
 </p>
+
 
 ---
 
