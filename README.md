@@ -11,11 +11,11 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
 - 🧠 Interested in low-level programming and problem-solving  
 - 🧪 Former QA & Trading Technology Intern @ CoinQuant  
 <p align="center">
-  <a href="https://www.aou.edu.lb">
+  <a href="https://www.aou.edu.lb" target="_blank">
     <img src="logos/aou.png" height="45" alt="Arab Open University" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://42.fr">
+  <a href="https://42.fr" target="_blank">
     <img src="logos/42.png" height="45" alt="42 Beirut" />
   </a>
 </p>
@@ -25,28 +25,28 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
 ## 🧩 42 Projects
 
 <p align="center">
-  <a href="https://github.com/grace-hdd/libft">
+  <a href="https://github.com/grace-hdd/libft" target="_blank">
     <img src="42_badges/libft.png" width="140" alt="Libft" />
   </a>
-  <a href="https://github.com/grace-hdd/ft_printf">
+  <a href="https://github.com/grace-hdd/ft_printf" target="_blank">
     <img src="42_badges/ft_printf.png" width="140" alt="Ft_printf" />
   </a>
-  <a href="https://github.com/grace-hdd/get_next_line">
+  <a href="https://github.com/grace-hdd/get_next_line" target="_blank">
     <img src="42_badges/get_next_line.png" width="140" alt="Get_next_line" />
   </a>
-  <a href="https://github.com/grace-hdd/push_swap">
+  <a href="https://github.com/grace-hdd/push_swap" target="_blank">
     <img src="42_badges/push_swap.png" width="140" alt="Push_swap" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/grace-hdd/fract-ol">
+  <a href="https://github.com/grace-hdd/fract-ol" target="_blank">
     <img src="42_badges/fract-ol.png" width="140" alt="Fract-ol" />
   </a>
-  <a href="https://github.com/grace-hdd/minitalk">
+  <a href="https://github.com/grace-hdd/minitalk" target="_blank">
     <img src="42_badges/minitalk.png" width="140" alt="Minitalk" />
   </a>
-  <a href="https://github.com/grace-hdd/philosophers">
+  <a href="https://github.com/grace-hdd/philosophers" target="_blank">
     <img src="42_badges/philosophers.png" width="140" alt="Philosophers" />
   </a>
 </p>
