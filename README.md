@@ -62,13 +62,6 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
 
 ---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=grace-hdd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-hdd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/grace-haddad1/)
