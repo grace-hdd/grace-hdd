@@ -49,6 +49,9 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
   <a href="https://github.com/grace-hdd/philosophers" target="_blank">
     <img src="42_badges/philosophers.png" width="140" alt="Philosophers" />
   </a>
+  <a href="https://github.com/grace-hdd/minishell" target="_blank">
+    <img src="42_badges/minishell.png" width="140" alt="minishell" />
+  </a>
 </p>
 
 
