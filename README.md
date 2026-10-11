@@ -18,6 +18,10 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
   <a href="https://42.fr" target="_blank">
     <img src="logos/42.png" height="45" alt="42 Beirut" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.coinquant.ai/" target="_blank">
+    <img src="logos/coinquant.png" height="45" alt="Coinquant" />
+  </a>
 </p>
 
 ---
@@ -54,6 +58,11 @@ Welcome to my GitHub! I’m an ITC student at **AOU Lebanon** and **42 Beirut** 
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/grace-hdd/cpp-modules" target="_blank">
+    <img src="42_badges/C++.png" width="140" alt="C++ Modules">
+  </a>
+</p>
 
 ---
 
